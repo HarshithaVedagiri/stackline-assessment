@@ -1,0 +1,71 @@
+@import '~antd/dist/antd.css';
+
+.App {
+  text-align: center;
+}
+
+.header  {
+  background-color: rgb(34, 34, 100);
+  color: white;
+}
+
+.footer  {
+  background-color: rgb(34, 34, 100);
+  color: white;
+}
+
+.content{
+  background-color: #eeecec;
+}
+
+.col{
+ background-color: white;
+ margin: 10px;
+ padding: 30px;
+ border-radius: 2px;
+}
+
+.title{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-weight:bold;
+  font-size: medium;
+}
+
+.sub-title{
+ color: gray;
+ font-size:smaller;
+ text-align:center;
+}
+
+.data{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: rgb(250, 248, 248);
+}
+.buttons{
+  height: 30px;
+  margin: 5px;
+  font-size: smaller;
+  border-radius: 3px;
+}
+
+.table{
+  padding-top: 50px;
+}
+
+.RetailSales{
+  float: right;
+  background-color: rgba(255, 99, 132, 0.8);
+  border-radius: 2px;
+  margin-right: 30px;
+  height: 25px;
+  width:150px;
+}
+.WholesaleSales{
+  float: right;
+  background-color: rgba(54, 162, 235, 0.8);
+  border-radius: 2px;
+  height: 25px;
+  width:150px;
+}
